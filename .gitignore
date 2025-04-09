@@ -1,0 +1,16 @@
+# Игнорируем лишние файлы и папки
+.DS_Store
+123k/
+1243/
+1/
+__pycache__/
+app.py
+deleteFiles.sh
+deleteFIles copy.sh
+java-docker-app/
+java/
+lab5_graph/
+python_app/
+test_app.py
+untitled/
+Курл код для теста/
